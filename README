@@ -1,0 +1,131 @@
+Program Menghitung Luas Persegi Panjang
+
+Program sederhana berbasis Java yang menghitung luas persegi panjang berdasarkan input panjang dan lebar dari pengguna. Proyek ini dibuat sebagai latihan penggunaan Git Version Control dan dasar pemrograman Java.
+
+🚀 Mulai
+
+Instruksi di bawah ini akan membantu Anda mendapatkan salinan proyek dan menjalankannya di mesin lokal Anda untuk keperluan pengembangan atau pengujian.
+
+Repositori GitHub:
+🔗 https://github.com/HidayahNHY/JavaVersionControlPractice.git
+
+🧩 Prasyarat
+
+Pastikan Anda telah menginstal:
+
+Java JDK 17+
+
+Git
+
+Text editor atau IDE seperti IntelliJ IDEA
+ atau VS Code
+
+Cek instalasi:
+
+java -version
+git --version
+
+⚙️ Instalasi
+
+Langkah-langkah untuk menjalankan proyek di lokal:
+
+Clone repository:
+
+git clone https://github.com/HidayahNHY/JavaVersionControlPractice.git
+
+
+Masuk ke folder proyek:
+
+cd JavaVersionControlPractice
+
+
+Jalankan program:
+
+javac Main.java
+java Main
+
+
+Masukkan data ketika diminta:
+
+Masukkan panjang: 5
+Masukkan lebar: 4
+
+
+Hasil output:
+
+Luas persegi panjang adalah: 20
+
+🧪 Menjalankan Tes
+
+Belum ada sistem testing otomatis, namun Anda dapat menguji secara manual dengan berbagai input (misalnya panjang dan lebar berbeda).
+
+Contoh:
+
+Panjang	Lebar	Hasil Diharapkan
+5	4	20
+7	3	21
+10	5	50
+🧱 Mendobrak Tes Ujung ke Ujung
+
+Program ini menguji perhitungan logika sederhana dan memastikan hasil luas sesuai rumus:
+
+Luas = Panjang × Lebar
+
+Contoh pengujian:
+
+Input: panjang = 10, lebar = 5
+Output: Luas persegi panjang adalah 50
+
+🧾 Tes Gaya Pengkodean
+
+Kode mengikuti gaya dasar Java:
+
+Gunakan camelCase untuk variabel.
+
+Gunakan komentar untuk menjelaskan fungsi program.
+
+Penamaan kelas diawali huruf besar (Main).
+
+🚢 Penyebaran
+
+Program ini dapat dijalankan di sistem manapun yang mendukung Java.
+Cukup jalankan file .class yang telah dikompilasi menggunakan perintah:
+
+java Main
+
+🧰 Dibangun Dengan
+
+Java 17 - Bahasa pemrograman utama
+
+Git - Version control system
+
+IntelliJ IDEA - Lingkungan pengembangan
+
+🤝 Berkontribusi
+
+Silakan buat pull request atau laporkan issue jika ingin menambah fitur atau memperbaiki bug.
+
+Untuk panduan kontribusi lebih lanjut, lihat file CONTRIBUTING.md (jika tersedia).
+
+🔢 Versi
+
+Menggunakan sistem SemVer (Semantic Versioning).
+Lihat tag versi pada repositori ini untuk versi yang tersedia.
+
+✍️ Penulis
+
+Hidayah Nur Hasan Yamlean – Pengembang utama
+Terinspirasi oleh template dari Billie Thompson dan diterjemahkan oleh Iqbalbash
+
+Lihat juga daftar kontributor
+ yang berpartisipasi dalam proyek ini.
+
+📜 Lisensi
+
+Proyek ini dilisensikan di bawah MIT License — silakan lihat file LICENSE.md untuk detail lebih lanjut.
+
+💐 Ucapan Terima Kasih
+
+ASLEB DAN TEMAN TEMAN
+
+Komunitas open-source Java
